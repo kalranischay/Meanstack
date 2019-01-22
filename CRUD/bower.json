@@ -1,0 +1,22 @@
+{
+  "name": "crud app2",
+  "description": "this is crud app",
+  "main": "",
+  "keywords": [
+    "crud",
+    "app"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.7.5",
+    "bootstrap": "^4.1.3"
+  }
+}
